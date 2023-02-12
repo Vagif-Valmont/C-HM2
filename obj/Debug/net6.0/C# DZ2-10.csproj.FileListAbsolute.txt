@@ -1,0 +1,15 @@
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/bin/Debug/net6.0/C# DZ2-10
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/bin/Debug/net6.0/C# DZ2-10.deps.json
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/bin/Debug/net6.0/C# DZ2-10.runtimeconfig.json
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/bin/Debug/net6.0/C# DZ2-10.dll
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/bin/Debug/net6.0/C# DZ2-10.pdb
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/C# DZ2-10.csproj.AssemblyReference.cache
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/C# DZ2-10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/C# DZ2-10.AssemblyInfoInputs.cache
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/C# DZ2-10.AssemblyInfo.cs
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/C# DZ2-10.csproj.CoreCompileInputs.cache
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/C# DZ2-10.dll
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/refint/C# DZ2-10.dll
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/C# DZ2-10.pdb
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/C# DZ2-10.genruntimeconfig.cache
+/Users/vagifgusejnov/Desktop/Бизнесы и обучение/GB программирование/C#/C# DZ2/C# DZ2-10/obj/Debug/net6.0/ref/C# DZ2-10.dll
